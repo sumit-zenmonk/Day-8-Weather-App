@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 76.6968,
+        "lat": 30.6992
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 303.55,
+        "feels_like": 301.6,
+        "temp_min": 303.55,
+        "temp_max": 303.55,
+        "pressure": 1011,
+        "humidity": 12,
+        "sea_level": 1011,
+        "grnd_level": 977
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 7.98,
+        "deg": 316,
+        "gust": 10.53
+    },
+    "clouds": {
+        "all": 1
+    },
+    "dt": 1772433556,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1772414351,
+        "sunset": 1772455922
+    },
+    "timezone": 19800,
+    "id": 6992326,
+    "name": "Mohali",
+    "cod": 200
+}

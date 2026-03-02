@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 76.9681,
+        "lat": 29.3889
+    },
+    "weather": [
+        {
+            "id": 800,
+            "main": "Clear",
+            "description": "clear sky",
+            "icon": "01d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 90.5,
+        "feels_like": 86.34,
+        "temp_min": 90.5,
+        "temp_max": 90.5,
+        "pressure": 1011,
+        "humidity": 9,
+        "sea_level": 1011,
+        "grnd_level": 984
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 15.05,
+        "deg": 305,
+        "gust": 24.16
+    },
+    "clouds": {
+        "all": 0
+    },
+    "dt": 1772433986,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1772414235,
+        "sunset": 1772455907
+    },
+    "timezone": 19800,
+    "id": 1260476,
+    "name": "Panipat",
+    "cod": 200
+}
